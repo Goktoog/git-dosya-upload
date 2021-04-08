@@ -1,0 +1,5 @@
+1-Yüklenecek dosyanýn içine gir
+2- Right click git bash here 
+3- write git init
+4-  ls
+5- 
